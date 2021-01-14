@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  {% load static %}
+
+  <!-- Bootstrap -->
+  <link href="{% static 'gestionComentarios/vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
+
+   <!-- Fonts -->
+  
+   <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap" rel="stylesheet"> 
+   <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet">
+   
+
+    <title>Register</title>
+</head>
+
+
+
+<body>
+<!-- 
+  IMPORTANTE
+  Esto seria si usamos por defecto el formulario de django
+  si instalamos widget:
+  pip install django-widget-tweaks
+  nos permite editar form propios de django como register
+
+  Por ultimo como esto sirve para aplicar bootstrap a cualquier formulario
+  podemos ponerlo en un archivo externo que nos sirva siempre formcustom.html
+  -->
+  <!-- 
+  <h2>Sign up</h2>
+    <form method="POST">
+      {% csrf_token %} 
+
+      {{ form.as_p }}
+      <button type="submit">Sign up</button>
+    </form>
+-->
+
+<form method="post" novalidate style="width: 50%; margin-left: auto;margin-right: auto;">
+  {% csrf_token %}
+  {% include 'accounts/formcustom.html' with form=form %}
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+
+
+
+    <!-- Bootstrap -->
+ <script src="% static 'gestionComentarios/vendor/jquery/jquery.min.js' %}"></script>
+ <script src="% static 'gestionComentarios/vendor/bootstrap/js/bootstrap.bundle.min.js' %}"></script>
+    
+</body>
+
+
+
+
+
+</html>
+
+
+
+
+
+
+
+
