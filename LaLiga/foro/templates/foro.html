@@ -1,0 +1,46 @@
+{% extends "gestionComentarios/base.html" %}
+
+
+{% load static %}
+
+{% block content %}
+
+
+<h1 style="text-align: center;color:white; margin-top:35px;margin-bottom:10px;">Bienvenido al Foro de discución</h1>
+
+
+<form method="post">
+    {{ comentario_Form.as_p }}
+    {% csrf_token %}
+    <p><input type="submit" value="Comentar"></p>
+</form>
+
+
+
+{% for c in comentarios %}
+
+<div class="inner-main-body p-2 p-sm-3 collapse forum-content show">
+    <div class="card mb-2">
+        <div class="card-body p-2 p-sm-3">
+            <div class="media forum-item">
+                <a href="#" data-toggle="collapse" data-target=".forum-content"><img src="https://bootdey.com/img/Content/avatar/avatar1.png" class="mr-3 rounded-circle" width="50" alt="User" /></a>
+                <div class="media-body">
+                    <h6><a href="#" data-toggle="collapse" data-target=".forum-content" class="text-body">{{c.id_usuario}}  || {{c.fecha }} </a></h6>
+                    <p class="text-secondary">
+                        {{c.contenido}}
+                    </p>
+                   
+                </div>
+             
+            </div>
+        </div>
+    </div>
+
+{% endfor %}
+
+
+
+
+
+
+{% endblock %}

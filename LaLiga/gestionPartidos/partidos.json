@@ -1,0 +1,2396 @@
+[
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30161",
+            "fecha": "24\/10\/2020",
+            "jornada": "7",
+            "id_local": "1",
+            "nombre_local": "Barcelona",
+            "id_visitante": "2",
+            "nombre_visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "id_arbitro": "600423",
+            "nombre_arbitro": "Juan Mart\u00ednez Munuera",
+            "estadio": "Camp Nou"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30181",
+            "fecha": "07\/11\/2020",
+            "jornada": "9",
+            "id_local": "1",
+            "nombre_local": "Barcelona",
+            "id_visitante": "8",
+            "nombre_visitante": "Betis",
+            "goles_local": "5",
+            "goles_visitante": "2",
+            "id_arbitro": "600992",
+            "nombre_arbitro": "Guillermo Cuadra Fern\u00e1ndez",
+            "estadio": "Camp Nou"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30220",
+            "fecha": "13\/12\/2020",
+            "jornada": "13",
+            "id_local": "1",
+            "nombre_local": "Barcelona",
+            "id_visitante": "20",
+            "nombre_visitante": "Levante",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "id_arbitro": "600494",
+            "nombre_arbitro": "Ricardo de Burgos Bengoetxea",
+            "estadio": "Camp Nou"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30200",
+            "fecha": "29\/11\/2020",
+            "jornada": "11",
+            "id_local": "1",
+            "nombre_local": "Barcelona",
+            "id_visitante": "27",
+            "nombre_visitante": "Osasuna",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "id_arbitro": "600014",
+            "nombre_arbitro": "Antonio Miguel Mateu Lahoz",
+            "estadio": "Camp Nou"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30281",
+            "fecha": "16\/12\/2020",
+            "jornada": "19",
+            "id_local": "1",
+            "nombre_local": "Barcelona",
+            "id_visitante": "30",
+            "nombre_visitante": "Real Sociedad",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "id_arbitro": "600497",
+            "nombre_arbitro": "Jos\u00e9 Mar\u00eda S\u00e1nchez Mart\u00ednez",
+            "estadio": "Camp Nou"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30142",
+            "fecha": "04\/10\/2020",
+            "jornada": "5",
+            "id_local": "1",
+            "nombre_local": "Barcelona",
+            "id_visitante": "33",
+            "nombre_visitante": "Sevilla",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600422",
+            "nombre_arbitro": "Jes\u00fas Gil Manzano",
+            "estadio": "Camp Nou"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30232",
+            "fecha": "19\/12\/2020",
+            "jornada": "14",
+            "id_local": "1",
+            "nombre_local": "Barcelona",
+            "id_visitante": "36",
+            "nombre_visitante": "Valencia",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "id_arbitro": "600428",
+            "nombre_arbitro": "Alejandro Jos\u00e9 Hern\u00e1ndez Hern\u00e1ndez",
+            "estadio": "Camp Nou"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30122",
+            "fecha": "27\/09\/2020",
+            "jornada": "3",
+            "id_local": "1",
+            "nombre_local": "Barcelona",
+            "id_visitante": "38",
+            "nombre_visitante": "Villarreal",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "id_arbitro": "600992",
+            "nombre_arbitro": "Guillermo Cuadra Fern\u00e1ndez",
+            "estadio": "Camp Nou"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30252",
+            "fecha": "29\/12\/2020",
+            "jornada": "16",
+            "id_local": "1",
+            "nombre_local": "Barcelona",
+            "id_visitante": "47",
+            "nombre_visitante": "Eibar",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600987",
+            "nombre_arbitro": "Javier Alberola Rojas",
+            "estadio": "Camp Nou"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30205",
+            "fecha": "28\/11\/2020",
+            "jornada": "11",
+            "id_local": "2",
+            "nombre_local": "Real Madrid",
+            "id_visitante": "3",
+            "nombre_visitante": "Alav\u00e9s",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "id_arbitro": "600694",
+            "nombre_arbitro": "Adri\u00e1n Cordero Vega",
+            "estadio": "Estadio Alfredo Di St\u00e9fano"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30286",
+            "fecha": "15\/12\/2020",
+            "jornada": "19",
+            "id_local": "2",
+            "nombre_local": "Real Madrid",
+            "id_visitante": "6",
+            "nombre_visitante": "Athletic de Bilbao",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "id_arbitro": "600422",
+            "nombre_arbitro": "Jes\u00fas Gil Manzano",
+            "estadio": "Estadio Alfredo Di St\u00e9fano"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30225",
+            "fecha": "12\/12\/2020",
+            "jornada": "13",
+            "id_local": "2",
+            "nombre_local": "Real Madrid",
+            "id_visitante": "7",
+            "nombre_visitante": "Atl\u00e9tico de Madrid",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "id_arbitro": "600014",
+            "nombre_arbitro": "Antonio Miguel Mateu Lahoz",
+            "estadio": "Estadio Alfredo Di St\u00e9fano"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30158",
+            "fecha": "17\/10\/2020",
+            "jornada": "6",
+            "id_local": "2",
+            "nombre_local": "Real Madrid",
+            "id_visitante": "10",
+            "nombre_visitante": "C\u00e1diz",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "id_arbitro": "600424",
+            "nombre_arbitro": "Santiago Jaime Latre",
+            "estadio": "Estadio Alfredo Di St\u00e9fano"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30266",
+            "fecha": "02\/01\/2021",
+            "jornada": "17",
+            "id_local": "2",
+            "nombre_local": "Real Madrid",
+            "id_visitante": "11",
+            "nombre_visitante": "Celta de Vigo",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "id_arbitro": "600494",
+            "nombre_arbitro": "Ricardo de Burgos Bengoetxea",
+            "estadio": "Estadio Alfredo Di St\u00e9fano"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30136",
+            "fecha": "30\/09\/2020",
+            "jornada": "4",
+            "id_local": "2",
+            "nombre_local": "Real Madrid",
+            "id_visitante": "37",
+            "nombre_visitante": "Valladolid",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "id_arbitro": "600751",
+            "nombre_arbitro": "C\u00e9sar Soto Grado",
+            "estadio": "Estadio Alfredo Di St\u00e9fano"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30244",
+            "fecha": "23\/12\/2020",
+            "jornada": "15",
+            "id_local": "2",
+            "nombre_local": "Real Madrid",
+            "id_visitante": "59",
+            "nombre_visitante": "Granada",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "id_arbitro": "600423",
+            "nombre_arbitro": "Juan Mart\u00ednez Munuera",
+            "estadio": "Estadio Santiago Bernabeu"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30177",
+            "fecha": "31\/10\/2020",
+            "jornada": "8",
+            "id_local": "2",
+            "nombre_local": "Real Madrid",
+            "id_visitante": "79",
+            "nombre_visitante": "Huesca",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "id_arbitro": "600587",
+            "nombre_arbitro": "Pablo Gonz\u00e1lez Fuertes",
+            "estadio": "Estadio Alfredo Di St\u00e9fano"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30170",
+            "fecha": "31\/10\/2020",
+            "jornada": "8",
+            "id_local": "3",
+            "nombre_local": "Alav\u00e9s",
+            "id_visitante": "1",
+            "nombre_visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600428",
+            "nombre_arbitro": "Alejandro Jos\u00e9 Hern\u00e1ndez Hern\u00e1ndez",
+            "estadio": "Mendizorrotza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30140",
+            "fecha": "04\/10\/2020",
+            "jornada": "5",
+            "id_local": "3",
+            "nombre_local": "Alav\u00e9s",
+            "id_visitante": "6",
+            "nombre_visitante": "Athletic de Bilbao",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "id_arbitro": "600497",
+            "nombre_arbitro": "Jos\u00e9 Mar\u00eda S\u00e1nchez Mart\u00ednez",
+            "estadio": "Mendizorrotza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30260",
+            "fecha": "03\/01\/2021",
+            "jornada": "17",
+            "id_local": "3",
+            "nombre_local": "Alav\u00e9s",
+            "id_visitante": "7",
+            "nombre_visitante": "Atl\u00e9tico de Madrid",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "id_arbitro": "600423",
+            "nombre_arbitro": "Juan Mart\u00ednez Munuera",
+            "estadio": "Mendizorrotza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30108",
+            "fecha": "13\/09\/2020",
+            "jornada": "1",
+            "id_local": "3",
+            "nombre_local": "Alav\u00e9s",
+            "id_visitante": "8",
+            "nombre_visitante": "Betis",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "id_arbitro": "600587",
+            "nombre_arbitro": "Pablo Gonz\u00e1lez Fuertes",
+            "estadio": "Mendizorrotza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30120",
+            "fecha": "26\/09\/2020",
+            "jornada": "3",
+            "id_local": "3",
+            "nombre_local": "Alav\u00e9s",
+            "id_visitante": "16",
+            "nombre_visitante": "Getafe",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "id_arbitro": "600987",
+            "nombre_arbitro": "Javier Alberola Rojas",
+            "estadio": "Mendizorrotza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30210",
+            "fecha": "06\/12\/2020",
+            "jornada": "12",
+            "id_local": "3",
+            "nombre_local": "Alav\u00e9s",
+            "id_visitante": "30",
+            "nombre_visitante": "Real Sociedad",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "id_arbitro": "600709",
+            "nombre_arbitro": "Jos\u00e9 Luis Munuera Montero",
+            "estadio": "Mendizorrotza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30190",
+            "fecha": "22\/11\/2020",
+            "jornada": "10",
+            "id_local": "3",
+            "nombre_local": "Alav\u00e9s",
+            "id_visitante": "36",
+            "nombre_visitante": "Valencia",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "id_arbitro": "600424",
+            "nombre_arbitro": "Santiago Jaime Latre",
+            "estadio": "Mendizorrotza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30150",
+            "fecha": "18\/10\/2020",
+            "jornada": "6",
+            "id_local": "3",
+            "nombre_local": "Alav\u00e9s",
+            "id_visitante": "42",
+            "nombre_visitante": "Elche",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "id_arbitro": "600694",
+            "nombre_arbitro": "Adri\u00e1n Cordero Vega",
+            "estadio": "Mendizorrotza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30240",
+            "fecha": "23\/12\/2020",
+            "jornada": "15",
+            "id_local": "3",
+            "nombre_local": "Alav\u00e9s",
+            "id_visitante": "47",
+            "nombre_visitante": "Eibar",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "id_arbitro": "600409",
+            "nombre_arbitro": "Carlos del Cerro Grande",
+            "estadio": "Mendizorrotza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30119",
+            "fecha": "06\/01\/2021",
+            "jornada": "2",
+            "id_local": "6",
+            "nombre_local": "Athletic de Bilbao",
+            "id_visitante": "1",
+            "nombre_visitante": "Barcelona",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "id_arbitro": "600409",
+            "nombre_arbitro": "Carlos del Cerro Grande",
+            "estadio": "San Mam\u00e9s"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30191",
+            "fecha": "23\/11\/2020",
+            "jornada": "10",
+            "id_local": "6",
+            "nombre_local": "Athletic de Bilbao",
+            "id_visitante": "8",
+            "nombre_visitante": "Betis",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "id_arbitro": "600987",
+            "nombre_arbitro": "Javier Alberola Rojas",
+            "estadio": "San Mam\u00e9s"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30130",
+            "fecha": "01\/10\/2020",
+            "jornada": "4",
+            "id_local": "6",
+            "nombre_local": "Athletic de Bilbao",
+            "id_visitante": "10",
+            "nombre_visitante": "C\u00e1diz",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "id_arbitro": "600587",
+            "nombre_arbitro": "Pablo Gonz\u00e1lez Fuertes",
+            "estadio": "San Mam\u00e9s"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30211",
+            "fecha": "04\/12\/2020",
+            "jornada": "12",
+            "id_local": "6",
+            "nombre_local": "Athletic de Bilbao",
+            "id_visitante": "11",
+            "nombre_visitante": "Celta de Vigo",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "id_arbitro": "600584",
+            "nombre_arbitro": "Jorge Figueroa V\u00e1zquez",
+            "estadio": "San Mam\u00e9s"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30151",
+            "fecha": "18\/10\/2020",
+            "jornada": "6",
+            "id_local": "6",
+            "nombre_local": "Athletic de Bilbao",
+            "id_visitante": "20",
+            "nombre_visitante": "Levante",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "id_arbitro": "600987",
+            "nombre_arbitro": "Javier Alberola Rojas",
+            "estadio": "San Mam\u00e9s"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30250",
+            "fecha": "31\/12\/2020",
+            "jornada": "16",
+            "id_local": "6",
+            "nombre_local": "Athletic de Bilbao",
+            "id_visitante": "30",
+            "nombre_visitante": "Real Sociedad",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "id_arbitro": "600497",
+            "nombre_arbitro": "Jos\u00e9 Mar\u00eda S\u00e1nchez Mart\u00ednez",
+            "estadio": "San Mam\u00e9s"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30171",
+            "fecha": "31\/10\/2020",
+            "jornada": "8",
+            "id_local": "6",
+            "nombre_local": "Athletic de Bilbao",
+            "id_visitante": "33",
+            "nombre_visitante": "Sevilla",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "id_arbitro": "600409",
+            "nombre_arbitro": "Carlos del Cerro Grande",
+            "estadio": "San Mam\u00e9s"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30261",
+            "fecha": "03\/01\/2021",
+            "jornada": "17",
+            "id_local": "6",
+            "nombre_local": "Athletic de Bilbao",
+            "id_visitante": "42",
+            "nombre_visitante": "Elche",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "id_arbitro": "600412",
+            "nombre_arbitro": "Mario Melero L\u00f3pez",
+            "estadio": "San Mam\u00e9s"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30230",
+            "fecha": "18\/12\/2020",
+            "jornada": "14",
+            "id_local": "6",
+            "nombre_local": "Athletic de Bilbao",
+            "id_visitante": "79",
+            "nombre_visitante": "Huesca",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "id_arbitro": "600729",
+            "nombre_arbitro": "Valent\u00edn Pizarro G\u00f3mez",
+            "estadio": "San Mam\u00e9s"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30192",
+            "fecha": "21\/11\/2020",
+            "jornada": "10",
+            "id_local": "7",
+            "nombre_local": "Atl\u00e9tico de Madrid",
+            "id_visitante": "1",
+            "nombre_visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "id_arbitro": "600709",
+            "nombre_arbitro": "Jos\u00e9 Luis Munuera Montero",
+            "estadio": "Estadio Metropolitano"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30160",
+            "fecha": "24\/10\/2020",
+            "jornada": "7",
+            "id_local": "7",
+            "nombre_local": "Atl\u00e9tico de Madrid",
+            "id_visitante": "8",
+            "nombre_visitante": "Betis",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "id_arbitro": "600014",
+            "nombre_arbitro": "Antonio Miguel Mateu Lahoz",
+            "estadio": "Estadio Metropolitano"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30180",
+            "fecha": "07\/11\/2020",
+            "jornada": "9",
+            "id_local": "7",
+            "nombre_local": "Atl\u00e9tico de Madrid",
+            "id_visitante": "10",
+            "nombre_visitante": "C\u00e1diz",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "id_arbitro": "600694",
+            "nombre_arbitro": "Adri\u00e1n Cordero Vega",
+            "estadio": "Estadio Metropolitano"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30251",
+            "fecha": "30\/12\/2020",
+            "jornada": "16",
+            "id_local": "7",
+            "nombre_local": "Atl\u00e9tico de Madrid",
+            "id_visitante": "16",
+            "nombre_visitante": "Getafe",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "id_arbitro": "600014",
+            "nombre_arbitro": "Antonio Miguel Mateu Lahoz",
+            "estadio": "Estadio Metropolitano"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30109",
+            "fecha": "12\/01\/2021",
+            "jornada": "1",
+            "id_local": "7",
+            "nombre_local": "Atl\u00e9tico de Madrid",
+            "id_visitante": "33",
+            "nombre_visitante": "Sevilla",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "id_arbitro": "600010",
+            "nombre_arbitro": "Xavier Estrada Fern\u00e1ndez",
+            "estadio": "Estadio Metropolitano"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30212",
+            "fecha": "05\/12\/2020",
+            "jornada": "12",
+            "id_local": "7",
+            "nombre_local": "Atl\u00e9tico de Madrid",
+            "id_visitante": "37",
+            "nombre_visitante": "Valladolid",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "id_arbitro": "600587",
+            "nombre_arbitro": "Pablo Gonz\u00e1lez Fuertes",
+            "estadio": "Estadio Metropolitano"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30141",
+            "fecha": "03\/10\/2020",
+            "jornada": "5",
+            "id_local": "7",
+            "nombre_local": "Atl\u00e9tico de Madrid",
+            "id_visitante": "38",
+            "nombre_visitante": "Villarreal",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "id_arbitro": "600428",
+            "nombre_arbitro": "Alejandro Jos\u00e9 Hern\u00e1ndez Hern\u00e1ndez",
+            "estadio": "Estadio Metropolitano"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30231",
+            "fecha": "19\/12\/2020",
+            "jornada": "14",
+            "id_local": "7",
+            "nombre_local": "Atl\u00e9tico de Madrid",
+            "id_visitante": "42",
+            "nombre_visitante": "Elche",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "id_arbitro": "600010",
+            "nombre_arbitro": "Xavier Estrada Fern\u00e1ndez",
+            "estadio": "Estadio Metropolitano"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30121",
+            "fecha": "27\/09\/2020",
+            "jornada": "3",
+            "id_local": "7",
+            "nombre_local": "Atl\u00e9tico de Madrid",
+            "id_visitante": "59",
+            "nombre_visitante": "Granada",
+            "goles_local": "6",
+            "goles_visitante": "1",
+            "id_arbitro": "600010",
+            "nombre_arbitro": "Xavier Estrada Fern\u00e1ndez",
+            "estadio": "Estadio Metropolitano"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30123",
+            "fecha": "26\/09\/2020",
+            "jornada": "3",
+            "id_local": "8",
+            "nombre_local": "Betis",
+            "id_visitante": "2",
+            "nombre_visitante": "Real Madrid",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "id_arbitro": "600494",
+            "nombre_arbitro": "Ricardo de Burgos Bengoetxea",
+            "estadio": "Benito Villamar\u00edn"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30241",
+            "fecha": "23\/12\/2020",
+            "jornada": "15",
+            "id_local": "8",
+            "nombre_local": "Betis",
+            "id_visitante": "10",
+            "nombre_visitante": "C\u00e1diz",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "id_arbitro": "600014",
+            "nombre_arbitro": "Antonio Miguel Mateu Lahoz",
+            "estadio": "Benito Villamar\u00edn"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30152",
+            "fecha": "18\/10\/2020",
+            "jornada": "6",
+            "id_local": "8",
+            "nombre_local": "Betis",
+            "id_visitante": "30",
+            "nombre_visitante": "Real Sociedad",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "id_arbitro": "600010",
+            "nombre_arbitro": "Xavier Estrada Fern\u00e1ndez",
+            "estadio": "Benito Villamar\u00edn"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30262",
+            "fecha": "02\/01\/2021",
+            "jornada": "17",
+            "id_local": "8",
+            "nombre_local": "Betis",
+            "id_visitante": "33",
+            "nombre_visitante": "Sevilla",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600409",
+            "nombre_arbitro": "Carlos del Cerro Grande",
+            "estadio": "Benito Villamar\u00edn"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30118",
+            "fecha": "20\/09\/2020",
+            "jornada": "2",
+            "id_local": "8",
+            "nombre_local": "Betis",
+            "id_visitante": "37",
+            "nombre_visitante": "Valladolid",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "id_arbitro": "600424",
+            "nombre_arbitro": "Santiago Jaime Latre",
+            "estadio": "Benito Villamar\u00edn"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30221",
+            "fecha": "13\/12\/2020",
+            "jornada": "13",
+            "id_local": "8",
+            "nombre_local": "Betis",
+            "id_visitante": "38",
+            "nombre_visitante": "Villarreal",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600729",
+            "nombre_arbitro": "Valent\u00edn Pizarro G\u00f3mez",
+            "estadio": "Benito Villamar\u00edn"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30172",
+            "fecha": "01\/11\/2020",
+            "jornada": "8",
+            "id_local": "8",
+            "nombre_local": "Betis",
+            "id_visitante": "42",
+            "nombre_visitante": "Elche",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "id_arbitro": "600586",
+            "nombre_arbitro": "David Medi\u00e9 Jim\u00e9nez",
+            "estadio": "Benito Villamar\u00edn"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30201",
+            "fecha": "30\/11\/2020",
+            "jornada": "11",
+            "id_local": "8",
+            "nombre_local": "Betis",
+            "id_visitante": "47",
+            "nombre_visitante": "Eibar",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "id_arbitro": "600423",
+            "nombre_arbitro": "Juan Mart\u00ednez Munuera",
+            "estadio": "Benito Villamar\u00edn"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30214",
+            "fecha": "05\/12\/2020",
+            "jornada": "12",
+            "id_local": "10",
+            "nombre_local": "C\u00e1diz",
+            "id_visitante": "1",
+            "nombre_visitante": "Barcelona",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "id_arbitro": "600751",
+            "nombre_arbitro": "C\u00e9sar Soto Grado",
+            "estadio": "Estadio Ram\u00f3n de Carranza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30272",
+            "fecha": "10\/01\/2021",
+            "jornada": "18",
+            "id_local": "10",
+            "nombre_local": "C\u00e1diz",
+            "id_visitante": "3",
+            "nombre_visitante": "Alav\u00e9s",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "id_arbitro": "600497",
+            "nombre_arbitro": "Jos\u00e9 Mar\u00eda S\u00e1nchez Mart\u00ednez",
+            "estadio": "Estadio Ram\u00f3n de Carranza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30235",
+            "fecha": "20\/12\/2020",
+            "jornada": "14",
+            "id_local": "10",
+            "nombre_local": "C\u00e1diz",
+            "id_visitante": "16",
+            "nombre_visitante": "Getafe",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "id_arbitro": "600424",
+            "nombre_arbitro": "Santiago Jaime Latre",
+            "estadio": "Estadio Ram\u00f3n de Carranza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30102",
+            "fecha": "12\/09\/2020",
+            "jornada": "1",
+            "id_local": "10",
+            "nombre_local": "C\u00e1diz",
+            "id_visitante": "27",
+            "nombre_visitante": "Osasuna",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "id_arbitro": "601073",
+            "nombre_arbitro": "Isidro D\u00edaz de Mera Escuderos",
+            "estadio": "Estadio Ram\u00f3n de Carranza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30194",
+            "fecha": "22\/11\/2020",
+            "jornada": "10",
+            "id_local": "10",
+            "nombre_local": "C\u00e1diz",
+            "id_visitante": "30",
+            "nombre_visitante": "Real Sociedad",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "id_arbitro": "600010",
+            "nombre_arbitro": "Xavier Estrada Fern\u00e1ndez",
+            "estadio": "Estadio Ram\u00f3n de Carranza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30125",
+            "fecha": "27\/09\/2020",
+            "jornada": "3",
+            "id_local": "10",
+            "nombre_local": "C\u00e1diz",
+            "id_visitante": "33",
+            "nombre_visitante": "Sevilla",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "id_arbitro": "600586",
+            "nombre_arbitro": "David Medi\u00e9 Jim\u00e9nez",
+            "estadio": "Estadio Ram\u00f3n de Carranza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30254",
+            "fecha": "29\/12\/2020",
+            "jornada": "16",
+            "id_local": "10",
+            "nombre_local": "C\u00e1diz",
+            "id_visitante": "37",
+            "nombre_visitante": "Valladolid",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "id_arbitro": "600428",
+            "nombre_arbitro": "Alejandro Jos\u00e9 Hern\u00e1ndez Hern\u00e1ndez",
+            "estadio": "Estadio Ram\u00f3n de Carranza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30163",
+            "fecha": "25\/10\/2020",
+            "jornada": "7",
+            "id_local": "10",
+            "nombre_local": "C\u00e1diz",
+            "id_visitante": "38",
+            "nombre_visitante": "Villarreal",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "id_arbitro": "600494",
+            "nombre_arbitro": "Ricardo de Burgos Bengoetxea",
+            "estadio": "Estadio Ram\u00f3n de Carranza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30143",
+            "fecha": "04\/10\/2020",
+            "jornada": "5",
+            "id_local": "10",
+            "nombre_local": "C\u00e1diz",
+            "id_visitante": "59",
+            "nombre_visitante": "Granada",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600987",
+            "nombre_arbitro": "Javier Alberola Rojas",
+            "estadio": "Estadio Ram\u00f3n de Carranza"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30131",
+            "fecha": "01\/10\/2020",
+            "jornada": "4",
+            "id_local": "11",
+            "nombre_local": "Celta de Vigo",
+            "id_visitante": "1",
+            "nombre_visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "id_arbitro": "600409",
+            "nombre_arbitro": "Carlos del Cerro Grande",
+            "estadio": "Balaidos"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30233",
+            "fecha": "20\/12\/2020",
+            "jornada": "14",
+            "id_local": "11",
+            "nombre_local": "Celta de Vigo",
+            "id_visitante": "3",
+            "nombre_visitante": "Alav\u00e9s",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "id_arbitro": "600987",
+            "nombre_arbitro": "Javier Alberola Rojas",
+            "estadio": "Balaidos"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30153",
+            "fecha": "17\/10\/2020",
+            "jornada": "6",
+            "id_local": "11",
+            "nombre_local": "Celta de Vigo",
+            "id_visitante": "7",
+            "nombre_visitante": "Atl\u00e9tico de Madrid",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "id_arbitro": "600423",
+            "nombre_arbitro": "Juan Mart\u00ednez Munuera",
+            "estadio": "Balaidos"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30222",
+            "fecha": "14\/12\/2020",
+            "jornada": "13",
+            "id_local": "11",
+            "nombre_local": "Celta de Vigo",
+            "id_visitante": "10",
+            "nombre_visitante": "C\u00e1diz",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "id_arbitro": "600992",
+            "nombre_arbitro": "Guillermo Cuadra Fern\u00e1ndez",
+            "estadio": "Balaidos"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30173",
+            "fecha": "01\/11\/2020",
+            "jornada": "8",
+            "id_local": "11",
+            "nombre_local": "Celta de Vigo",
+            "id_visitante": "30",
+            "nombre_visitante": "Real Sociedad",
+            "goles_local": "1",
+            "goles_visitante": "4",
+            "id_arbitro": "600694",
+            "nombre_arbitro": "Adri\u00e1n Cordero Vega",
+            "estadio": "Balaidos"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30111",
+            "fecha": "19\/09\/2020",
+            "jornada": "2",
+            "id_local": "11",
+            "nombre_local": "Celta de Vigo",
+            "id_visitante": "36",
+            "nombre_visitante": "Valencia",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "id_arbitro": "600422",
+            "nombre_arbitro": "Jes\u00fas Gil Manzano",
+            "estadio": "Balaidos"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30271",
+            "fecha": "08\/01\/2021",
+            "jornada": "18",
+            "id_local": "11",
+            "nombre_local": "Celta de Vigo",
+            "id_visitante": "38",
+            "nombre_visitante": "Villarreal",
+            "goles_local": "0",
+            "goles_visitante": "4",
+            "id_arbitro": "600010",
+            "nombre_arbitro": "Xavier Estrada Fern\u00e1ndez",
+            "estadio": "Balaidos"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30202",
+            "fecha": "29\/11\/2020",
+            "jornada": "11",
+            "id_local": "11",
+            "nombre_local": "Celta de Vigo",
+            "id_visitante": "59",
+            "nombre_visitante": "Granada",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "id_arbitro": "601073",
+            "nombre_arbitro": "Isidro D\u00edaz de Mera Escuderos",
+            "estadio": "Balaidos"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30253",
+            "fecha": "30\/12\/2020",
+            "jornada": "16",
+            "id_local": "11",
+            "nombre_local": "Celta de Vigo",
+            "id_visitante": "79",
+            "nombre_visitante": "Huesca",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "id_arbitro": "600709",
+            "nombre_arbitro": "Jos\u00e9 Luis Munuera Montero",
+            "estadio": "Balaidos"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30155",
+            "fecha": "17\/10\/2020",
+            "jornada": "6",
+            "id_local": "16",
+            "nombre_local": "Getafe",
+            "id_visitante": "1",
+            "nombre_visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "id_arbitro": "600751",
+            "nombre_arbitro": "C\u00e9sar Soto Grado",
+            "estadio": "Coliseum Alfonso P\u00e9rez"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30203",
+            "fecha": "29\/11\/2020",
+            "jornada": "11",
+            "id_local": "16",
+            "nombre_local": "Getafe",
+            "id_visitante": "6",
+            "nombre_visitante": "Athletic de Bilbao",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600412",
+            "nombre_arbitro": "Mario Melero L\u00f3pez",
+            "estadio": "Coliseum Alfonso P\u00e9rez"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30133",
+            "fecha": "29\/09\/2020",
+            "jornada": "4",
+            "id_local": "16",
+            "nombre_local": "Getafe",
+            "id_visitante": "8",
+            "nombre_visitante": "Betis",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "id_arbitro": "600423",
+            "nombre_arbitro": "Juan Mart\u00ednez Munuera",
+            "estadio": "Coliseum Alfonso P\u00e9rez"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30242",
+            "fecha": "23\/12\/2020",
+            "jornada": "15",
+            "id_local": "16",
+            "nombre_local": "Getafe",
+            "id_visitante": "11",
+            "nombre_visitante": "Celta de Vigo",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600587",
+            "nombre_arbitro": "Pablo Gonz\u00e1lez Fuertes",
+            "estadio": "Coliseum Alfonso P\u00e9rez"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30110",
+            "fecha": "19\/09\/2020",
+            "jornada": "2",
+            "id_local": "16",
+            "nombre_local": "Getafe",
+            "id_visitante": "27",
+            "nombre_visitante": "Osasuna",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "id_arbitro": "600428",
+            "nombre_arbitro": "Alejandro Jos\u00e9 Hern\u00e1ndez Hern\u00e1ndez",
+            "estadio": "Coliseum Alfonso P\u00e9rez"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30223",
+            "fecha": "12\/12\/2020",
+            "jornada": "13",
+            "id_local": "16",
+            "nombre_local": "Getafe",
+            "id_visitante": "33",
+            "nombre_visitante": "Sevilla",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "id_arbitro": "600423",
+            "nombre_arbitro": "Juan Mart\u00ednez Munuera",
+            "estadio": "Coliseum Alfonso P\u00e9rez"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30264",
+            "fecha": "02\/01\/2021",
+            "jornada": "17",
+            "id_local": "16",
+            "nombre_local": "Getafe",
+            "id_visitante": "37",
+            "nombre_visitante": "Valladolid",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "id_arbitro": "601073",
+            "nombre_arbitro": "Isidro D\u00edaz de Mera Escuderos",
+            "estadio": "Coliseum Alfonso P\u00e9rez"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30182",
+            "fecha": "08\/11\/2020",
+            "jornada": "9",
+            "id_local": "16",
+            "nombre_local": "Getafe",
+            "id_visitante": "38",
+            "nombre_visitante": "Villarreal",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "id_arbitro": "600709",
+            "nombre_arbitro": "Jos\u00e9 Luis Munuera Montero",
+            "estadio": "Coliseum Alfonso P\u00e9rez"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30162",
+            "fecha": "25\/10\/2020",
+            "jornada": "7",
+            "id_local": "16",
+            "nombre_local": "Getafe",
+            "id_visitante": "59",
+            "nombre_visitante": "Granada",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "id_arbitro": "600422",
+            "nombre_arbitro": "Jes\u00fas Gil Manzano",
+            "estadio": "Coliseum Alfonso P\u00e9rez"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30144",
+            "fecha": "04\/10\/2020",
+            "jornada": "5",
+            "id_local": "20",
+            "nombre_local": "Levante",
+            "id_visitante": "2",
+            "nombre_visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "id_arbitro": "600709",
+            "nombre_arbitro": "Jos\u00e9 Luis Munuera Montero",
+            "estadio": "Estadio de la Cer\u00e1mica"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30184",
+            "fecha": "08\/11\/2020",
+            "jornada": "9",
+            "id_local": "20",
+            "nombre_local": "Levante",
+            "id_visitante": "3",
+            "nombre_visitante": "Alav\u00e9s",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "601073",
+            "nombre_arbitro": "Isidro D\u00edaz de Mera Escuderos",
+            "estadio": "Ciutat de Valencia"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30256",
+            "fecha": "29\/12\/2020",
+            "jornada": "16",
+            "id_local": "20",
+            "nombre_local": "Levante",
+            "id_visitante": "8",
+            "nombre_visitante": "Betis",
+            "goles_local": "4",
+            "goles_visitante": "3",
+            "id_arbitro": "600010",
+            "nombre_arbitro": "Xavier Estrada Fern\u00e1ndez",
+            "estadio": "Ciutat de Valencia"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30164",
+            "fecha": "26\/10\/2020",
+            "jornada": "7",
+            "id_local": "20",
+            "nombre_local": "Levante",
+            "id_visitante": "11",
+            "nombre_visitante": "Celta de Vigo",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600412",
+            "nombre_arbitro": "Mario Melero L\u00f3pez",
+            "estadio": "Estadio de la Cer\u00e1mica "
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30216",
+            "fecha": "05\/12\/2020",
+            "jornada": "12",
+            "id_local": "20",
+            "nombre_local": "Levante",
+            "id_visitante": "16",
+            "nombre_visitante": "Getafe",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "id_arbitro": "600586",
+            "nombre_arbitro": "David Medi\u00e9 Jim\u00e9nez",
+            "estadio": "Ciutat de Valencia"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30237",
+            "fecha": "19\/12\/2020",
+            "jornada": "14",
+            "id_local": "20",
+            "nombre_local": "Levante",
+            "id_visitante": "30",
+            "nombre_visitante": "Real Sociedad",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "id_arbitro": "600751",
+            "nombre_arbitro": "C\u00e9sar Soto Grado",
+            "estadio": "Ciutat de Valencia"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30196",
+            "fecha": "21\/11\/2020",
+            "jornada": "10",
+            "id_local": "20",
+            "nombre_local": "Levante",
+            "id_visitante": "42",
+            "nombre_visitante": "Elche",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600584",
+            "nombre_arbitro": "Jorge Figueroa V\u00e1zquez",
+            "estadio": "Ciutat de Valencia"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30275",
+            "fecha": "10\/01\/2021",
+            "jornada": "18",
+            "id_local": "20",
+            "nombre_local": "Levante",
+            "id_visitante": "47",
+            "nombre_visitante": "Eibar",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "id_arbitro": "600010",
+            "nombre_arbitro": "Xavier Estrada Fern\u00e1ndez",
+            "estadio": "Ciutat de Valencia"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30276",
+            "fecha": "09\/01\/2021",
+            "jornada": "18",
+            "id_local": "27",
+            "nombre_local": "Osasuna",
+            "id_visitante": "2",
+            "nombre_visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "id_arbitro": "600751",
+            "nombre_arbitro": "C\u00e9sar Soto Grado",
+            "estadio": "Estadio El Sadar"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30257",
+            "fecha": "31\/12\/2020",
+            "jornada": "16",
+            "id_local": "27",
+            "nombre_local": "Osasuna",
+            "id_visitante": "3",
+            "nombre_visitante": "Alav\u00e9s",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600424",
+            "nombre_arbitro": "Santiago Jaime Latre",
+            "estadio": "Estadio El Sadar"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30165",
+            "fecha": "24\/10\/2020",
+            "jornada": "7",
+            "id_local": "27",
+            "nombre_local": "Osasuna",
+            "id_visitante": "6",
+            "nombre_visitante": "Athletic de Bilbao",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "id_arbitro": "600992",
+            "nombre_arbitro": "Guillermo Cuadra Fern\u00e1ndez",
+            "estadio": "Estadio El Sadar"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30176",
+            "fecha": "31\/10\/2020",
+            "jornada": "8",
+            "id_local": "27",
+            "nombre_local": "Osasuna",
+            "id_visitante": "7",
+            "nombre_visitante": "Atl\u00e9tico de Madrid",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "id_arbitro": "600010",
+            "nombre_arbitro": "Xavier Estrada Fern\u00e1ndez",
+            "estadio": "Estadio El Sadar"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30217",
+            "fecha": "06\/12\/2020",
+            "jornada": "12",
+            "id_local": "27",
+            "nombre_local": "Osasuna",
+            "id_visitante": "8",
+            "nombre_visitante": "Betis",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "id_arbitro": "600428",
+            "nombre_arbitro": "Alejandro Jos\u00e9 Hern\u00e1ndez Hern\u00e1ndez",
+            "estadio": "Estadio El Sadar"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30145",
+            "fecha": "04\/10\/2020",
+            "jornada": "5",
+            "id_local": "27",
+            "nombre_local": "Osasuna",
+            "id_visitante": "11",
+            "nombre_visitante": "Celta de Vigo",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "id_arbitro": "600494",
+            "nombre_arbitro": "Ricardo de Burgos Bengoetxea",
+            "estadio": "Estadio El Sadar"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30126",
+            "fecha": "27\/09\/2020",
+            "jornada": "3",
+            "id_local": "27",
+            "nombre_local": "Osasuna",
+            "id_visitante": "20",
+            "nombre_visitante": "Levante",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "id_arbitro": "600412",
+            "nombre_arbitro": "Mario Melero L\u00f3pez",
+            "estadio": "Estadio El Sadar"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30238",
+            "fecha": "19\/12\/2020",
+            "jornada": "14",
+            "id_local": "27",
+            "nombre_local": "Osasuna",
+            "id_visitante": "38",
+            "nombre_visitante": "Villarreal",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "id_arbitro": "600584",
+            "nombre_arbitro": "Jorge Figueroa V\u00e1zquez",
+            "estadio": "Estadio El Sadar"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30197",
+            "fecha": "20\/11\/2020",
+            "jornada": "10",
+            "id_local": "27",
+            "nombre_local": "Osasuna",
+            "id_visitante": "79",
+            "nombre_visitante": "Huesca",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600729",
+            "nombre_arbitro": "Valent\u00edn Pizarro G\u00f3mez",
+            "estadio": "Estadio El Sadar"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30117",
+            "fecha": "20\/09\/2020",
+            "jornada": "2",
+            "id_local": "30",
+            "nombre_local": "Real Sociedad",
+            "id_visitante": "2",
+            "nombre_visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "id_arbitro": "600423",
+            "nombre_arbitro": "Juan Mart\u00ednez Munuera",
+            "estadio": "Anoeta"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30245",
+            "fecha": "22\/12\/2020",
+            "jornada": "15",
+            "id_local": "30",
+            "nombre_local": "Real Sociedad",
+            "id_visitante": "7",
+            "nombre_visitante": "Atl\u00e9tico de Madrid",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "id_arbitro": "600992",
+            "nombre_arbitro": "Guillermo Cuadra Fern\u00e1ndez",
+            "estadio": "Anoeta"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30146",
+            "fecha": "03\/10\/2020",
+            "jornada": "5",
+            "id_local": "30",
+            "nombre_local": "Real Sociedad",
+            "id_visitante": "16",
+            "nombre_visitante": "Getafe",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "id_arbitro": "600014",
+            "nombre_arbitro": "Antonio Miguel Mateu Lahoz",
+            "estadio": "Anoeta"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30267",
+            "fecha": "03\/01\/2021",
+            "jornada": "17",
+            "id_local": "30",
+            "nombre_local": "Real Sociedad",
+            "id_visitante": "27",
+            "nombre_visitante": "Osasuna",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600729",
+            "nombre_arbitro": "Valent\u00edn Pizarro G\u00f3mez",
+            "estadio": "Anoeta"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30137",
+            "fecha": "29\/09\/2020",
+            "jornada": "4",
+            "id_local": "30",
+            "nombre_local": "Real Sociedad",
+            "id_visitante": "36",
+            "nombre_visitante": "Valencia",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "id_arbitro": "600584",
+            "nombre_arbitro": "Jorge Figueroa V\u00e1zquez",
+            "estadio": "Anoeta"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30206",
+            "fecha": "29\/11\/2020",
+            "jornada": "11",
+            "id_local": "30",
+            "nombre_local": "Real Sociedad",
+            "id_visitante": "38",
+            "nombre_visitante": "Villarreal",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600422",
+            "nombre_arbitro": "Jes\u00fas Gil Manzano",
+            "estadio": "Anoeta"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30226",
+            "fecha": "13\/12\/2020",
+            "jornada": "13",
+            "id_local": "30",
+            "nombre_local": "Real Sociedad",
+            "id_visitante": "47",
+            "nombre_visitante": "Eibar",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "601073",
+            "nombre_arbitro": "Isidro D\u00edaz de Mera Escuderos",
+            "estadio": "Anoeta"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30185",
+            "fecha": "08\/11\/2020",
+            "jornada": "9",
+            "id_local": "30",
+            "nombre_local": "Real Sociedad",
+            "id_visitante": "59",
+            "nombre_visitante": "Granada",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "id_arbitro": "600409",
+            "nombre_arbitro": "Carlos del Cerro Grande",
+            "estadio": "Anoeta"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30166",
+            "fecha": "25\/10\/2020",
+            "jornada": "7",
+            "id_local": "30",
+            "nombre_local": "Real Sociedad",
+            "id_visitante": "79",
+            "nombre_visitante": "Huesca",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "id_arbitro": "601073",
+            "nombre_arbitro": "Isidro D\u00edaz de Mera Escuderos",
+            "estadio": "Anoeta"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30218",
+            "fecha": "05\/12\/2020",
+            "jornada": "12",
+            "id_local": "33",
+            "nombre_local": "Sevilla",
+            "id_visitante": "2",
+            "nombre_visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "id_arbitro": "600497",
+            "nombre_arbitro": "Jos\u00e9 Mar\u00eda S\u00e1nchez Mart\u00ednez",
+            "estadio": "Estadio Ram\u00f3n S\u00e1nchez-Pizju\u00e1n"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30198",
+            "fecha": "21\/11\/2020",
+            "jornada": "10",
+            "id_local": "33",
+            "nombre_local": "Sevilla",
+            "id_visitante": "11",
+            "nombre_visitante": "Celta de Vigo",
+            "goles_local": "4",
+            "goles_visitante": "2",
+            "id_arbitro": "600751",
+            "nombre_arbitro": "C\u00e9sar Soto Grado",
+            "estadio": "Estadio Ram\u00f3n S\u00e1nchez-Pizju\u00e1n"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30138",
+            "fecha": "01\/10\/2020",
+            "jornada": "4",
+            "id_local": "33",
+            "nombre_local": "Sevilla",
+            "id_visitante": "20",
+            "nombre_visitante": "Levante",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "id_arbitro": "600010",
+            "nombre_arbitro": "Xavier Estrada Fern\u00e1ndez",
+            "estadio": "Estadio Ram\u00f3n S\u00e1nchez-Pizju\u00e1n"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30186",
+            "fecha": "07\/11\/2020",
+            "jornada": "9",
+            "id_local": "33",
+            "nombre_local": "Sevilla",
+            "id_visitante": "27",
+            "nombre_visitante": "Osasuna",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "id_arbitro": "600423",
+            "nombre_arbitro": "Juan Mart\u00ednez Munuera",
+            "estadio": "Estadio Ram\u00f3n S\u00e1nchez-Pizju\u00e1n"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30277",
+            "fecha": "09\/01\/2021",
+            "jornada": "18",
+            "id_local": "33",
+            "nombre_local": "Sevilla",
+            "id_visitante": "30",
+            "nombre_visitante": "Real Sociedad",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "id_arbitro": "600987",
+            "nombre_arbitro": "Javier Alberola Rojas",
+            "estadio": "Estadio Ram\u00f3n S\u00e1nchez-Pizju\u00e1n"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30239",
+            "fecha": "19\/12\/2020",
+            "jornada": "14",
+            "id_local": "33",
+            "nombre_local": "Sevilla",
+            "id_visitante": "37",
+            "nombre_visitante": "Valladolid",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600422",
+            "nombre_arbitro": "Jes\u00fas Gil Manzano",
+            "estadio": "Estadio Ram\u00f3n S\u00e1nchez-Pizju\u00e1n"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30258",
+            "fecha": "29\/12\/2020",
+            "jornada": "16",
+            "id_local": "33",
+            "nombre_local": "Sevilla",
+            "id_visitante": "38",
+            "nombre_visitante": "Villarreal",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "id_arbitro": "600751",
+            "nombre_arbitro": "C\u00e9sar Soto Grado",
+            "estadio": "Estadio Ram\u00f3n S\u00e1nchez-Pizju\u00e1n"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30167",
+            "fecha": "24\/10\/2020",
+            "jornada": "7",
+            "id_local": "33",
+            "nombre_local": "Sevilla",
+            "id_visitante": "47",
+            "nombre_visitante": "Eibar",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "id_arbitro": "600428",
+            "nombre_arbitro": "Alejandro Jos\u00e9 Hern\u00e1ndez Hern\u00e1ndez",
+            "estadio": "Estadio Ram\u00f3n S\u00e1nchez-Pizju\u00e1n"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30187",
+            "fecha": "08\/11\/2020",
+            "jornada": "9",
+            "id_local": "36",
+            "nombre_local": "Valencia",
+            "id_visitante": "2",
+            "nombre_visitante": "Real Madrid",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "id_arbitro": "600422",
+            "nombre_arbitro": "Jes\u00fas Gil Manzano",
+            "estadio": "Camp de Mestalla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30227",
+            "fecha": "12\/12\/2020",
+            "jornada": "13",
+            "id_local": "36",
+            "nombre_local": "Valencia",
+            "id_visitante": "6",
+            "nombre_visitante": "Athletic de Bilbao",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "id_arbitro": "600409",
+            "nombre_arbitro": "Carlos del Cerro Grande",
+            "estadio": "Camp de Mestalla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30207",
+            "fecha": "28\/11\/2020",
+            "jornada": "11",
+            "id_local": "36",
+            "nombre_local": "Valencia",
+            "id_visitante": "7",
+            "nombre_visitante": "Atl\u00e9tico de Madrid",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "id_arbitro": "600494",
+            "nombre_arbitro": "Ricardo de Burgos Bengoetxea",
+            "estadio": "Camp de Mestalla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30147",
+            "fecha": "03\/10\/2020",
+            "jornada": "5",
+            "id_local": "36",
+            "nombre_local": "Valencia",
+            "id_visitante": "8",
+            "nombre_visitante": "Betis",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "id_arbitro": "600992",
+            "nombre_arbitro": "Guillermo Cuadra Fern\u00e1ndez",
+            "estadio": "Camp de Mestalla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30268",
+            "fecha": "04\/01\/2021",
+            "jornada": "17",
+            "id_local": "36",
+            "nombre_local": "Valencia",
+            "id_visitante": "10",
+            "nombre_visitante": "C\u00e1diz",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600586",
+            "nombre_arbitro": "David Medi\u00e9 Jim\u00e9nez",
+            "estadio": "Camp de Mestalla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30178",
+            "fecha": "01\/11\/2020",
+            "jornada": "8",
+            "id_local": "36",
+            "nombre_local": "Valencia",
+            "id_visitante": "16",
+            "nombre_visitante": "Getafe",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "id_arbitro": "600584",
+            "nombre_arbitro": "Jorge Figueroa V\u00e1zquez",
+            "estadio": "Camp de Mestalla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30107",
+            "fecha": "13\/09\/2020",
+            "jornada": "1",
+            "id_local": "36",
+            "nombre_local": "Valencia",
+            "id_visitante": "20",
+            "nombre_visitante": "Levante",
+            "goles_local": "4",
+            "goles_visitante": "2",
+            "id_arbitro": "600497",
+            "nombre_arbitro": "Jos\u00e9 Mar\u00eda S\u00e1nchez Mart\u00ednez",
+            "estadio": "Camp de Mestalla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30246",
+            "fecha": "22\/12\/2020",
+            "jornada": "15",
+            "id_local": "36",
+            "nombre_local": "Valencia",
+            "id_visitante": "33",
+            "nombre_visitante": "Sevilla",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "id_arbitro": "600729",
+            "nombre_arbitro": "Valent\u00edn Pizarro G\u00f3mez",
+            "estadio": "Camp de Mestalla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30127",
+            "fecha": "26\/09\/2020",
+            "jornada": "3",
+            "id_local": "36",
+            "nombre_local": "Valencia",
+            "id_visitante": "79",
+            "nombre_visitante": "Huesca",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600709",
+            "nombre_arbitro": "Jos\u00e9 Luis Munuera Montero",
+            "estadio": "Camp de Mestalla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30247",
+            "fecha": "22\/12\/2020",
+            "jornada": "15",
+            "id_local": "37",
+            "nombre_local": "Valladolid",
+            "id_visitante": "1",
+            "nombre_visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "id_arbitro": "600412",
+            "nombre_arbitro": "Mario Melero L\u00f3pez",
+            "estadio": "E.M. Jos\u00e9 Zorrilla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30168",
+            "fecha": "25\/10\/2020",
+            "jornada": "7",
+            "id_local": "37",
+            "nombre_local": "Valladolid",
+            "id_visitante": "3",
+            "nombre_visitante": "Alav\u00e9s",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "id_arbitro": "600709",
+            "nombre_arbitro": "Jos\u00e9 Luis Munuera Montero",
+            "estadio": "E.M. Jos\u00e9 Zorrilla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30188",
+            "fecha": "08\/11\/2020",
+            "jornada": "9",
+            "id_local": "37",
+            "nombre_local": "Valladolid",
+            "id_visitante": "6",
+            "nombre_visitante": "Athletic de Bilbao",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "id_arbitro": "600751",
+            "nombre_arbitro": "C\u00e9sar Soto Grado",
+            "estadio": "E.M. Jos\u00e9 Zorrilla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30128",
+            "fecha": "27\/09\/2020",
+            "jornada": "3",
+            "id_local": "37",
+            "nombre_local": "Valladolid",
+            "id_visitante": "11",
+            "nombre_visitante": "Celta de Vigo",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600497",
+            "nombre_arbitro": "Jos\u00e9 Mar\u00eda S\u00e1nchez Mart\u00ednez",
+            "estadio": "E.M. Jos\u00e9 Zorrilla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30208",
+            "fecha": "27\/11\/2020",
+            "jornada": "11",
+            "id_local": "37",
+            "nombre_local": "Valladolid",
+            "id_visitante": "20",
+            "nombre_visitante": "Levante",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600729",
+            "nombre_arbitro": "Valent\u00edn Pizarro G\u00f3mez",
+            "estadio": "E.M. Jos\u00e9 Zorrilla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30228",
+            "fecha": "11\/12\/2020",
+            "jornada": "13",
+            "id_local": "37",
+            "nombre_local": "Valladolid",
+            "id_visitante": "27",
+            "nombre_visitante": "Osasuna",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "id_arbitro": "600694",
+            "nombre_arbitro": "Adri\u00e1n Cordero Vega",
+            "estadio": "E.M. Jos\u00e9 Zorrilla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30105",
+            "fecha": "13\/09\/2020",
+            "jornada": "1",
+            "id_local": "37",
+            "nombre_local": "Valladolid",
+            "id_visitante": "30",
+            "nombre_visitante": "Real Sociedad",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600412",
+            "nombre_arbitro": "Mario Melero L\u00f3pez",
+            "estadio": "E.M. Jos\u00e9 Zorrilla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30278",
+            "fecha": "10\/01\/2021",
+            "jornada": "18",
+            "id_local": "37",
+            "nombre_local": "Valladolid",
+            "id_visitante": "36",
+            "nombre_visitante": "Valencia",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "id_arbitro": "600992",
+            "nombre_arbitro": "Guillermo Cuadra Fern\u00e1ndez",
+            "estadio": "E.M. Jos\u00e9 Zorrilla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30148",
+            "fecha": "03\/10\/2020",
+            "jornada": "5",
+            "id_local": "37",
+            "nombre_local": "Valladolid",
+            "id_visitante": "47",
+            "nombre_visitante": "Eibar",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "id_arbitro": "601073",
+            "nombre_arbitro": "Isidro D\u00edaz de Mera Escuderos",
+            "estadio": "E.M. Jos\u00e9 Zorrilla"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30199",
+            "fecha": "21\/11\/2020",
+            "jornada": "10",
+            "id_local": "38",
+            "nombre_local": "Villarreal",
+            "id_visitante": "2",
+            "nombre_visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "id_arbitro": "600428",
+            "nombre_arbitro": "Alejandro Jos\u00e9 Hern\u00e1ndez Hern\u00e1ndez",
+            "estadio": "Estadio de la Cer\u00e1mica"
+        }
+    },
+    {
+        "model": "gestionPartidos.partidos",
+        "id": 7,
+        "fields": {
+            "id_partido": "30139",
+            "fecha": "30\/09\/2020",
+            "jornada": "4",
+            "id_local": "38",
+            "nombre_local": "Villarreal",
+            "id_visitante": "3",
+            "nombre_visitante": "Alav\u00e9s",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "id_arbitro": "600586",
+            "nombre_arbitro": "David Medi\u00e9 Jim\u00e9nez",
+            "estadio": "Estadio de la Cer\u00e1mica"
+        }
+    }
+]

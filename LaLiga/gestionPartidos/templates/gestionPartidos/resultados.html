@@ -1,0 +1,72 @@
+{% extends "gestionComentarios/base.html" %}
+
+
+{% load static %}
+
+{% block content %}
+
+
+<h1 style="text-align: center;color:white; margin-top:35px;margin-bottom:10px;">Resultados 2020-2021</h1>
+
+
+
+    {% for r in resultados.resultados %}
+
+{% with "gestionComentarios/img/"|add:r.id_local|add:".gif" as local %}
+{% with "gestionComentarios/img/"|add:r.id_visitante|add:".gif" as visitante %}
+
+
+
+
+
+<div class="row" style="width: 50%;margin-right: auto; margin-left: auto;" >
+    
+    <div class="col-sm-12">
+      <div class="card">
+        <div class="card-body" style="font-size: larger; font-weight: bold;">
+           
+
+            <div style="float:left">
+                <img src="{% static local %}" style="width:100px;height:150px; margin-right: 30px; " alt="">{{r.goles_local}}
+            </div>
+            <div style="float:right">
+                {{r.goles_visitante}}<img src="{% static visitante %}"  style="width:100px;height:150px;margin-left: 30px; " alt="">
+            </div>
+
+            
+
+        </div>
+      </div>
+    </div>
+    <!--
+    <div class="col-sm-6">
+      <div class="card">
+        <div class="card-body" style="text-align: center;font-size: larger; font-weight: bold; ">
+ 
+
+            <img src="{% static visitante %}"  style="width:100px;height:150px; float:right; " alt="">{{r.goles_visitante}}
+
+
+        </div>
+      </div>
+    </div>
+    -->
+  </div>
+
+
+
+
+
+
+
+{% endwith %} 
+{% endwith %}
+
+
+
+{% endfor %}
+
+
+
+
+{% endblock %}

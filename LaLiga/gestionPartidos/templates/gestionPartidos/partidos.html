@@ -1,0 +1,57 @@
+
+
+
+{% extends "gestionComentarios/base.html" %}
+
+
+{% load static %}
+
+{% block content %}
+
+
+<h1 style="text-align: center;color:white; margin-top:35px;margin-bottom:10px;">Clasificación 2020-2021</h1>
+
+
+
+<table class="table table-dark" style="width: 80%; margin-left: auto;margin-right: auto;">
+    <thead>
+      <tr>
+        <th scope="col">Escudo</th>
+        <th scope="col">Posicion</th>
+        <th scope="col">Equipo</th>
+        <th scope="col">Puntos</th>
+        <th scope="col">PJ</th>
+        <th scope="col">PG</th>
+        <th scope="col">PE</th>
+        <th scope="col">PP</th>
+        <th scope="col">GF</th>
+        <th scope="col">GC</th>
+      </tr>
+    </thead>
+    <tbody>
+
+{% for c in clasificaciones.equipo %}
+
+{% with "gestionComentarios/img/"|add:c.id_equipo|add:".gif" as template %}
+      <tr>
+        <td><img class="intro-img img-fluid mb-3 mb-lg-0 rounded" style="width:100px;height:150px  ;" src="{% static template %}" alt=""></td>
+{% endwith %}        
+        <td>{{c.posicion}}</td>
+        <td>{{c.nombre_equipo}}</td>
+        <td>{{c.puntos}}</td>
+        <td>{{c.pj}}</td>
+        <td>{{c.pg}}</td>
+        <td>{{c.pe}}</td>
+        <td>{{c.pp}}</td>
+        <td>{{c.gf}}</td>
+        <td>{{c.gc}}</td>
+      </tr>
+
+{% endfor %}
+
+
+    </tbody>
+  </table>
+
+
+{% endblock %}

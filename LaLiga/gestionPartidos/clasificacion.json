@@ -1,0 +1,322 @@
+[
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 7,
+        "fields": {
+            "posicion": "1",
+            "id_equipo": "7",
+            "nombre_equipo": "Atl\u00e9tico de Madrid",
+            "puntos": "41",
+            "pj": "16",
+            "pg": "13",
+            "pe": "2",
+            "pp": "1",
+            "gf": "31",
+            "gc": "6"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 2,
+        "fields": {
+            "posicion": "2",
+            "id_equipo": "2",
+            "nombre_equipo": "Real Madrid",
+            "puntos": "37",
+            "pj": "18",
+            "pg": "11",
+            "pe": "4",
+            "pp": "3",
+            "gf": "30",
+            "gc": "15"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 1,
+        "fields": {
+            "posicion": "3",
+            "id_equipo": "1",
+            "nombre_equipo": "Barcelona",
+            "puntos": "34",
+            "pj": "18",
+            "pg": "10",
+            "pe": "4",
+            "pp": "4",
+            "gf": "37",
+            "gc": "17"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 38,
+        "fields": {
+            "posicion": "4",
+            "id_equipo": "38",
+            "nombre_equipo": "Villarreal",
+            "puntos": "32",
+            "pj": "18",
+            "pg": "8",
+            "pe": "8",
+            "pp": "2",
+            "gf": "26",
+            "gc": "17"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 30,
+        "fields": {
+            "posicion": "5",
+            "id_equipo": "30",
+            "nombre_equipo": "Real Sociedad",
+            "puntos": "30",
+            "pj": "19",
+            "pg": "8",
+            "pe": "6",
+            "pp": "5",
+            "gf": "29",
+            "gc": "16"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 33,
+        "fields": {
+            "posicion": "6",
+            "id_equipo": "33",
+            "nombre_equipo": "Sevilla",
+            "puntos": "30",
+            "pj": "17",
+            "pg": "9",
+            "pe": "3",
+            "pp": "5",
+            "gf": "21",
+            "gc": "15"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 59,
+        "fields": {
+            "posicion": "7",
+            "id_equipo": "59",
+            "nombre_equipo": "Granada",
+            "puntos": "27",
+            "pj": "18",
+            "pg": "8",
+            "pe": "3",
+            "pp": "7",
+            "gf": "21",
+            "gc": "29"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 11,
+        "fields": {
+            "posicion": "8",
+            "id_equipo": "11",
+            "nombre_equipo": "Celta de Vigo",
+            "puntos": "23",
+            "pj": "18",
+            "pg": "6",
+            "pe": "5",
+            "pp": "7",
+            "gf": "22",
+            "gc": "28"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 10,
+        "fields": {
+            "posicion": "9",
+            "id_equipo": "10",
+            "nombre_equipo": "C\u00e1diz",
+            "puntos": "23",
+            "pj": "18",
+            "pg": "6",
+            "pe": "5",
+            "pp": "7",
+            "gf": "15",
+            "gc": "22"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 8,
+        "fields": {
+            "posicion": "10",
+            "id_equipo": "8",
+            "nombre_equipo": "Betis",
+            "puntos": "23",
+            "pj": "18",
+            "pg": "7",
+            "pe": "2",
+            "pp": "9",
+            "gf": "22",
+            "gc": "31"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 20,
+        "fields": {
+            "posicion": "11",
+            "id_equipo": "20",
+            "nombre_equipo": "Levante",
+            "puntos": "21",
+            "pj": "17",
+            "pg": "5",
+            "pe": "6",
+            "pp": "6",
+            "gf": "23",
+            "gc": "24"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 6,
+        "fields": {
+            "posicion": "12",
+            "id_equipo": "6",
+            "nombre_equipo": "Athletic Club",
+            "puntos": "21",
+            "pj": "18",
+            "pg": "6",
+            "pe": "3",
+            "pp": "9",
+            "gf": "21",
+            "gc": "22"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 16,
+        "fields": {
+            "posicion": "13",
+            "id_equipo": "16",
+            "nombre_equipo": "Getafe",
+            "puntos": "20",
+            "pj": "17",
+            "pg": "5",
+            "pe": "5",
+            "pp": "7",
+            "gf": "15",
+            "gc": "18"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 46,
+        "fields": {
+            "posicion": "14",
+            "id_equipo": "36",
+            "nombre_equipo": "Valencia",
+            "puntos": "19",
+            "pj": "18",
+            "pg": "4",
+            "pe": "7",
+            "pp": "7",
+            "gf": "24",
+            "gc": "25"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 47,
+        "fields": {
+            "posicion": "15",
+            "id_equipo": "47",
+            "nombre_equipo": "Eibar",
+            "puntos": "19",
+            "pj": "18",
+            "pg": "4",
+            "pe": "7",
+            "pp": "7",
+            "gf": "15",
+            "gc": "18"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 3,
+        "fields": {
+            "posicion": "16",
+            "id_equipo": "3",
+            "nombre_equipo": "Alav\u00e9s",
+            "puntos": "18",
+            "pj": "18",
+            "pg": "4",
+            "pe": "6",
+            "pp": "8",
+            "gf": "16",
+            "gc": "23"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 37,
+        "fields": {
+            "posicion": "17",
+            "id_equipo": "37",
+            "nombre_equipo": "Valladolid",
+            "puntos": "18",
+            "pj": "18",
+            "pg": "4",
+            "pe": "6",
+            "pp": "8",
+            "gf": "16",
+            "gc": "25"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 42,
+        "fields": {
+            "posicion": "18",
+            "id_equipo": "42",
+            "nombre_equipo": "Elche",
+            "puntos": "16",
+            "pj": "16",
+            "pg": "3",
+            "pe": "7",
+            "pp": "6",
+            "gf": "14",
+            "gc": "21"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 27,
+        "fields": {
+            "posicion": "19",
+            "id_equipo": "27",
+            "nombre_equipo": "Osasuna",
+            "puntos": "15",
+            "pj": "18",
+            "pg": "3",
+            "pe": "6",
+            "pp": "9",
+            "gf": "15",
+            "gc": "27"
+        }
+    },
+    {
+        "model": "gestionPartidos.clasificacion",
+        "id": 79,
+        "fields": {
+            "posicion": "20",
+            "id_equipo": "79",
+            "nombre_equipo": "Huesca",
+            "puntos": "12",
+            "pj": "18",
+            "pg": "1",
+            "pe": "9",
+            "pp": "8",
+            "gf": "14",
+            "gc": "28"
+        }
+    }
+]

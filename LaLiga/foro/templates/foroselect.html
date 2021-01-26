@@ -1,0 +1,117 @@
+{% extends "gestionComentarios/base.html" %}
+
+
+{% load static %}
+
+{% block content %}
+
+
+<h1 style="text-align: center;color:white; margin-top:35px;margin-bottom:10px;">Bienvenido al Foro de discución</h1>
+
+<div style="background: blanchedalmond;">
+
+
+
+
+
+
+    {% for p in partidos %}
+
+
+    {% with "gestionComentarios/img/"|add:p.id_local|add:".gif" as local %}
+    {% with "gestionComentarios/img/"|add:p.id_visitante|add:".gif" as visitante %}
+
+
+
+
+    <div class="row" style="width: 50%;margin-right: auto; margin-left: auto;">
+
+        <a href="{% url 'Foro' id=p.id%}" style="width: 50%;margin-right: auto; margin-left: auto;">
+
+            <div class="col-sm-12">
+                <div class="card">
+                    <div class="card-body" style="font-size: larger; font-weight: bold;">
+
+
+                        <div style="float:left">
+                            <img src="{% static local %}" style="width:100px;height:150px; margin-right: 30px; "
+                                alt="">{{p.goles_local}}
+                        </div>
+                        <div style="float:right">
+                            {{p.goles_visitante}}<img src="{% static visitante %}"
+                                style="width:100px;height:150px;margin-left: 30px; " alt="">
+                        </div>
+
+
+
+                    </div>
+                </div>
+            </div>
+            <!--
+    <div class="col-sm-6">
+      <div class="card">
+        <div class="card-body" style="text-align: center;font-size: larger; font-weight: bold; ">
+ 
+
+            <img src="{% static visitante %}"  style="width:100px;height:150px; float:right; " alt="">{{r.goles_visitante}}
+
+
+        </div>
+      </div>
+    </div>
+    -->
+
+
+        </a>
+    </div>
+
+
+
+
+
+
+    {% endwith %}
+    {% endwith %}
+
+
+    {% endfor %}
+
+
+
+
+
+
+
+
+
+    <!--  ESTO ES PARA LOS RECUADROS DE LOS USUARIOS QUE POSTEAN
+    {% for c in comentarios %}
+
+    <div class="inner-main-body p-2 p-sm-3 collapse forum-content show">
+        <div class="card mb-2">
+            <div class="card-body p-2 p-sm-3">
+                <div class="media forum-item">
+                    <a href="#" data-toggle="collapse" data-target=".forum-content"><img src="https://bootdey.com/img/Content/avatar/avatar1.png" class="mr-3 rounded-circle" width="50" alt="User" /></a>
+                    <div class="media-body">
+                        <h6><a href="#" data-toggle="collapse" data-target=".forum-content" class="text-body">{{c.id_usuario}}  || {{c.fecha }} </a></h6>
+                        <p class="text-secondary">
+                            {{c.contenido}}
+                        </p>
+                       
+                    </div>
+                 
+                </div>
+            </div>
+        </div>
+
+    {% endfor %}
+
+    -->
+
+
+
+</div>
+</div>
+
+
+{% endblock %}

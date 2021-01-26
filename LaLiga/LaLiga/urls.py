@@ -21,5 +21,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('gestioncomentarios/', include('gestionComentarios.urls')),
     path('accounts/', include('accounts.urls')),
-  
+    path('gestionpartidos/', include('gestionPartidos.urls')),
+    path('foro/', include('foro.urls')),
 ]

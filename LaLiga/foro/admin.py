@@ -1,5 +1,19 @@
 from django.contrib import admin
-# from gestionComentarios.models import Comentario
+
+# Register your models here.
+
+
+from foro.models import Comentario
+
+
+## Con esta linea hago que aparezca en Admin para administrar Comentarios
+admin.site.register(Comentario)
+
+
+## Con esto pongo en linea horizontal lo explicado abajo pero para que coja
+class ComentarioAdmin(admin.ModelAdmin):
+        list_display = ("contenido","fecha","id_usuario")
+    
 
 '''
 Con esto puedo editar cosas propias de la web de Administración
@@ -29,7 +43,3 @@ class ComentarioAdmin(admin.ModelAdmin):
     list_display = ("contenido","publicado","fecha") 
     list_filter = ("publicado","fecha",)    
 '''
-
-## admin.site.register(Comentario, ComentarioAdmin)
-
-# Register your models here.
