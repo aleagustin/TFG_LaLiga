@@ -6,19 +6,16 @@
 {% block content %}
 
 
+
+
 <h1 style="text-align: center;color:white; margin-top:35px;margin-bottom:10px;">Bienvenido al Foro de discución</h1>
 
 
-<form method="post">
-    {{ comentario_Form.as_p }}
-    {% csrf_token %}
-    <p><input type="submit" value="Comentar"></p>
-</form>
 
 
 
 {% for c in comentarios %}
-
+<!-- Esto es para post del foro
 <div class="inner-main-body p-2 p-sm-3 collapse forum-content show">
     <div class="card mb-2">
         <div class="card-body p-2 p-sm-3">
@@ -36,8 +33,39 @@
         </div>
     </div>
 
+-->
+<div style="width: 80%;margin-right: auto;margin-left: auto;">
+<div class="card mb-3" >
+    <div class="row g-0">
+      <div class="col-md-2" style="text-align: center;">
+        <img src="https://bootdey.com/img/Content/avatar/avatar1.png" height="100px" width="100px" alt="..." >
+      </div>
+      <div class="col-md-10">
+        <div class="card-body">
+          <h5 class="card-title">{{c.id_usuario}} </h5>
+          <p class="card-text">{{c.contenido}}</p>
+          <p class="card-text"><small class="text-muted">{{c.fecha }}</small></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 {% endfor %}
 
+
+
+
+<div style="display:inline-block;">
+<form method="post">
+    
+    {{ comentario_Form.as_p }}
+    {% csrf_token %}
+    <input type="submit"  class="btn btn-secondary" value="Comentar" style="float:right; margin-bottom: 20px;">
+    
+</form>
+</div>
 
 
 

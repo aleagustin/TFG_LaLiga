@@ -66,6 +66,17 @@ MIDDLEWARE = [
 
 
 
+PASSWORD_HASHERS = (
+    'django.contrib.auth.hashers.BCryptPasswordHasher',
+    'django.contrib.auth.hashers.PBKDF2PasswordHasher',
+    'django.contrib.auth.hashers.PBKDF2SHA1PasswordHasher',
+    'django.contrib.auth.hashers.SHA1PasswordHasher',
+    'django.contrib.auth.hashers.MD5PasswordHasher',
+    'django.contrib.auth.hashers.CryptPasswordHasher',
+)
+
+
+
 
 
 
@@ -97,10 +108,10 @@ WSGI_APPLICATION = 'LaLiga.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'usuariocomentario',
-        'USER': 'postgres',
-        'PASSWORD': '12345',
-        'HOST': '127.0.0.1',
+        'NAME': 'd8qpseu2l5plqm',
+        'USER': 'nvrvonrgrfdaqj',
+        'PASSWORD': '76f06fa0b086f0e5f39789df499762454c7ab30aaf131f2a4d8cfb8590164eb5',
+        'HOST': 'ec2-50-16-221-180.compute-1.amazonaws.com',
         'DATABASE_PORT':'5432',
     }
 }

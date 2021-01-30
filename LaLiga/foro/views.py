@@ -5,6 +5,8 @@ from gestionPartidos.models import Partidos
 from foro.forms import ComentarioForm
 from django.contrib.auth.models import User
 
+
+
 #En este caso llamos directamente al nombre del html ya que busca por defecto 
 # en template no hace ponerle la ruta con foro.html bastaria salvo que lo metamos 
 # otro subdirectorio hay si hay que ponerle la ruta
@@ -53,8 +55,10 @@ def foro(request,id):
             nuevoComentario.id_partido = Partidos.objects.get(id=id)
             nuevoComentario.id_usuario = getUser(request)
             nuevoComentario.save()
-
-
+            listaComentarios = list(Comentario.objects.filter(id_partido=id))
+            comentarioForm = ComentarioForm() ## Esto lo hago para que despues de guardar todo borrar los campos
+           
+        
     else:
         comentarioForm = ComentarioForm()
 

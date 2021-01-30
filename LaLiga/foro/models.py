@@ -8,7 +8,7 @@ import datetime
 
 class Comentario(models.Model):
     
-    contenido = models.CharField(max_length=255)
+    contenido = models.CharField(max_length=500)
     publicado = models.BooleanField(default=True)
     fecha = models.DateField(default=datetime.date.today)
     id_usuario = models.ForeignKey(User,on_delete=models.CASCADE ,related_name='comentario')
